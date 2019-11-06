@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<configuracion>
+    <masterNodeConfiguration>http://127.0.0.1:8080</masterNodeConfiguration>
+    <difficulty>3</difficulty>
+    <maxBlockTransactions>10</maxBlockTransactions>
+</configuracion>

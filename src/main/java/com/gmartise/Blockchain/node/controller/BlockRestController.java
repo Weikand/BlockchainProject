@@ -21,6 +21,7 @@ public class BlockRestController {
         this.nodeServices = nodeServices;
     }
 
+    @RequestMapping(method = RequestMethod.GET)
     BlockChain getBlockChain(){
         return blockServices.getBlockChain();
     }
